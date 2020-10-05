@@ -17,5 +17,24 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Career</title>
+      <link>https://joshuawicks.github.io/career/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshuawicks.github.io/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://joshuawicks.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshuawicks.github.io/publications/</guid>
+      <description>[1]Y. Wang, A. Xu, Z. Wang, L. Huang, J. Li, F. Li, J. Wicks, M. Luo, D.-H. Nam, C.-S. Tan, Y. Ding, J. Wu, Y. Lum, C.-T. Dinh, D. Sinton, G. Zheng, E. H. Sargent, Journal of the American Chemical Society 2020, 142, 5702.
+[2]W. R. Leow, Y. Lum, A. Ozden, Y. Wang, D.-H. Nam, B. Chen, J. Wicks, T.-T. Zhuang, F. Li, D. Sinton, E. H. Sargent, Science 2020, 368, 1228.</description>
+    </item>
+    
   </channel>
 </rss>
